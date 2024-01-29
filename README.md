@@ -14,10 +14,6 @@
 
 ## Descrição do Projeto
 <p align="center">Uma página web inspirada na página oficial do jogo GTA V na #SemanadoZeroaoProgramadorContratado e #Devemdobro.</p>
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/https://anafaguilar.github.io/projeto-gta5/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 >  Web
 
